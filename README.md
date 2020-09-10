@@ -9,6 +9,7 @@ Introduce myself
 - PERSONALITY. <sup>[3](#footnote_3)</sup>
 
 Interested in:
+ 
  I am interested in making an AI that has shape of girl. Because of my love experiences, 
 I think AI is more better than real girl. I will make it and then be a billionaire like Bill Gates.
 
