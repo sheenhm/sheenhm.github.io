@@ -4,9 +4,9 @@
 
 Introduce myself
 
-- HANDSOME [^1]
-- GENIUS [^2]
-- PERSONALITY [^3]
+- HANDSOME. [^1]
+- GENIUS. [^2]
+- PERSONALITY. [^3]
 
 ```
 
