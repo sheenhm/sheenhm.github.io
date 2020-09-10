@@ -8,6 +8,10 @@ Introduce myself
 - GENIUS. <sup>[2](#footnote_2)</sup>
 - PERSONALITY. <sup>[3](#footnote_3)</sup>
 
+Interested in:
+ I am interested in making an AI that has shape of girl. Because of my love experiences, 
+I think AI is more better than real girl. I will make it and then be a billionaire like Bill Gates.
+
 ```
 
 There is no one who is better than me at math and programming.
