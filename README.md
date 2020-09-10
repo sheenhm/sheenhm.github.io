@@ -14,7 +14,6 @@ Interested in:
 I think AI is more better than real girl. I will make it and then be a billionaire like Bill Gates.
 
 ```
-
 There is no one who is better than me at math and programming.
 I am sure that you will realize you know nothing when you see my code.
 ```
