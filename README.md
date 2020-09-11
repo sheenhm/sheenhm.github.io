@@ -1,6 +1,8 @@
 # Fundamentals of Open Source Software
 
 ### Hanyang University :: 2020 FALL SEMESTER
+   \
+Now let's learn more about me!
 
 1. Introduce myself
 
