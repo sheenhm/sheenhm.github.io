@@ -11,6 +11,6 @@
 2. Interested in
 
 ```
-I'm particularly interested in server-security.
+I am particularly interested in server-security.
 I want to study hard and hope growing into an outstanding developer.
 ```
