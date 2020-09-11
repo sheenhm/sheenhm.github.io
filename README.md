@@ -1,6 +1,6 @@
-# Programming Geninus\'s Study Room
+# Fundamentals of Open Source Software
 
-### Be Proud Of Visiting Here
+### 2020 FALL SEMESTER :: Hanyang University
 
 Introduce myself
 
