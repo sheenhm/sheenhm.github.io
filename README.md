@@ -1,12 +1,12 @@
 # Fundamentals of Open Source Software
 
-### 2020 FALL SEMESTER :: Hanyang University
+### Hanyang University :: 2020 FALL SEMESTER
 
 Introduce myself
 
-- HANDSOME.<sup>[1](#footnote_1)</sup>
-- GENIUS. <sup>[2](#footnote_2)</sup>
-- PERSONALITY. <sup>[3](#footnote_3)</sup>
+- **NAME:** HAMIN SHIN
+- **STUDENT NO:** 2020092688
+- **CONTACT:** sheenhm@hanyang.ac.kr
 
 Interested in:
  
@@ -17,8 +17,3 @@ I think AI is more better than real girl. I will make it and then be a billionai
 There is no one who is better than me at math and programming.
 I am sure that you will realize you know nothing when you see my code.
 ```
-<a name="footnote_1">1</a>: I am a handsome guy exceptionally 
-
-<a name="footnote_2">2</a>: I will show my brilliant intellectual abillity 
-
-<a name="footnote_3">3</a>: Don't fall in love in my personality...too annoying
