@@ -4,13 +4,13 @@
    \
 Now let's learn more about me!
 
-1. Introduce myself
+1) Introduce myself
 
 - **NAME:** HAMIN SHIN
 - **STUDENT NO:** 2020092688
 - **CONTACT:** sheenhm@hanyang.ac.kr
 
-2. Interested in
+2) Interested in
 
 ```
 I am particularly interested in server-security.
